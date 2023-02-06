@@ -1,3 +1,5 @@
+#include <unistd.h>
+#include <getopt.h>
 #include <stdio.h>
 #include <WARMUX_types.h>
 #include <WARMUX_network.h>
